@@ -24,6 +24,8 @@ reserve.md
  captures/
  .externalNativeBuild
  .cxx
+ .idea
+ .gradle
 
  ### NetBeans ###
  /nbproject/private/
